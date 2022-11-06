@@ -14,7 +14,7 @@ html {
 } */
 
 body {
-  font-family: 'Nunito', sans-serif;
+  font-family: 'Inter', sans-serif;
   line-height: 1.5;
   color: var(--color-grey);
   /* overflow-x: hidden; */
